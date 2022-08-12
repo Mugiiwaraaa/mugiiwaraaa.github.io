@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Fahad Bin Ahmed # your name (or website title) here
+logo: "/images/professional.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi! My name is Fahad Bin Ahmed. 
   <br><br>
-  Second description 
+  Data Science and Machine Learning Enthusiast.I have graduated from Czech technical University with a Bachelor's Degree in Mechanical Engineering where I specialized in Automation and IT in my final year. Data Science is also something that I enjoy doing as its something I look forward to after waking up in the morning which is rare :P 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/fahad-bin-ahmed-b6181154/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+google_analytics: G-7M73JC5F4N # your Google Analytics tracking ID here
